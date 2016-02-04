@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nigelm@rocketmail.com",
+    "enableMultiJS": false,
+    "longName": "_SmallMaths",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "_SmallMaths",
+    "uuid": "1caa286f-8b4f-4451-96c5-b727e8b7e382",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

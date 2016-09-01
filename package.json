@@ -1,0 +1,21 @@
+{
+    "author": "nigelm@rocketmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "smallmaths",
+    "pebble": {
+        "displayName": "_SmallMaths",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1caa286f-8b4f-4451-96c5-b727e8b7e382",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
